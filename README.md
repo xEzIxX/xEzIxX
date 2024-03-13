@@ -18,7 +18,7 @@
 </div>
 
 ## 🐰 me
-🥈 제 2회 가천대학교 와글와글 해커톤 2등 (2024-02-17) [Repo-수정 중](https://github.com/PareutPareut/backend)
+🥈 제 2회 가천대학교 와글와글 해커톤 2등 (2024-02-17) [Repo](https://github.com/PareutPareut/backend)
 
 ## 📞 contact
 📫 by1094@gachon.ac.kr
