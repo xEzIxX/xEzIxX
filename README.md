@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&reversal=true&text=xEzIxX&height=200&fontAlign=30&rotate=10&&reversal=true)
-
 ### 💻 Tech Stack
 
 <div>
