@@ -4,51 +4,50 @@
 
 <div>
 
-<table>
-  <tr>
-    <th>Frontend</th>
-    <th>Backend</th>
-    <th>Databases</th>
-    <th>Tools</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
-      <br>
-      <img src="https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
-      <br>
-      <img src="https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=EJS&logoColor=white" alt="EJS">
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-      <br>
-      <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
-      <br>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-      <br>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB">
-      <br>
-      <img src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/ESLint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLint">
-      <br>
-      <img src="https://img.shields.io/badge/Prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" alt="Prettier">
-    </td>
-  </tr>
-</table>
+  <table style="width:100%; border-collapse: collapse;">
+    <tr>
+      <td style="padding: 15px; background-color: #f3f4f6;">Frontend</td>
+      <td style="padding: 15px;">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML">
+        <img src="https://img.shields.io/badge/CSS-239120?style=flat&logo=css3&logoColor=white" alt="CSS">
+        <img src="https://img.shields.io/badge/EJS-B4CA65?style=flat&logo=EJS&logoColor=white" alt="EJS">
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 15px; background-color: #f3f4f6;">Backend</td>
+      <td style="padding: 15px;">
+        <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" alt="Node.js">
+        <img src="https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white" alt="Express.js">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript">
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 15px; background-color: #f3f4f6;">Databases</td>
+      <td style="padding: 15px;">
+        <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white" alt="MariaDB">
+        <img src="https://img.shields.io/badge/Redis-FF4438?style=flat&logo=redis&logoColor=white" alt="Redis">
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 15px; background-color: #f3f4f6;">Tools</td>
+      <td style="padding: 15px;">
+        <img src="https://img.shields.io/badge/ESLint-3A33D1?style=flat&logo=eslint&logoColor=white" alt="ESLint">
+        <img src="https://img.shields.io/badge/Prettier-1A2C34?style=flat&logo=prettier&logoColor=F7BA3E" alt="Prettier">
+      </td>
+    </tr>
+  </table>
 
 </div>
 
 </br>
 
 ### 🐰 About Me
-🥈 제 2회 가천대학교 와글와글 해커톤 2등 (2024-02-17) [Repo](https://github.com/PareutPareut/backend)
+[🔗 포트폴리오](https://handsomely-marigold-c67.notion.site/11293ef5816a801fab73ee7d2f113294?pvs=4)  
+🥈 제 2회 가천대학교 와글와글 해커톤 2등 (2024-02-17)  [Repo](https://github.com/PareutPareut/backend)
 </br>
 </br>
 
 ### 📞 Contact
 📫 by1094@gachon.ac.kr
+
