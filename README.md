@@ -38,13 +38,8 @@
 
 </div>
 
-</br>
-
 ### 🐰 About Me
 [🔗 포트폴리오](https://handsomely-marigold-c67.notion.site/11293ef5816a801fab73ee7d2f113294?pvs=4)  
-
-</br>
-</br>
 
 ### 📞 Contact
 📫 by1094@gachon.ac.kr
