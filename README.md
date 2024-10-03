@@ -42,7 +42,7 @@
 
 ### 🐰 About Me
 [🔗 포트폴리오](https://handsomely-marigold-c67.notion.site/11293ef5816a801fab73ee7d2f113294?pvs=4)  
-🥈 제 2회 가천대학교 와글와글 해커톤 2등 (2024-02-17)  [Repo](https://github.com/PareutPareut/backend)
+
 </br>
 </br>
 
