@@ -41,11 +41,14 @@
 
 ### 🚀 Projects
 
-- **StockSpoon Cloud** · 카카오테크 부트캠프 팀 프로젝트 (2026.08 ~ 2026.11) · [GitHub](https://github.com/workspace-v2/KTB4-11th-Cloud)
+- **StockSpoon Cloud**
+  - 카카오테크 부트캠프 팀 프로젝트 (2026.08 ~ 2026.11) · [GitHub](https://github.com/workspace-v2/KTB4-11th-Cloud)
   - 실시간 시세 기반 모의투자 서비스의 AWS 인프라 구축
-- **방짝 (Bangjjack)** · 캡스톤 디자인 팀 프로젝트 (2026.03 ~ 2026.06) · [GitHub](https://github.com/workspace-v2/Bangjjack-Backend-chatting)
+- **방짝 (Bangjjack)**
+  - 캡스톤 디자인 팀 프로젝트 (2026.03 ~ 2026.06) · [GitHub](https://github.com/workspace-v2/Bangjjack-Backend-chatting)
   - AI 기반 기숙사 룸메이트 매칭 서비스
-- **K8s Pilot** · 카카오테크 부트캠프 개인 프로젝트 (2026.07 ~ 2026.08) · [GitHub](https://github.com/pattie-assignments/k8s-pilot)
+- **K8s Pilot**
+  - 카카오테크 부트캠프 개인 프로젝트 (2026.07 ~ 2026.08) · [GitHub](https://github.com/pattie-assignments/k8s-pilot)
   - Kubernetes 기반 GitOps 배포 자동화
 
 ---
